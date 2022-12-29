@@ -1,7 +1,7 @@
 
 ## ✨Nahyun✨ ##
-## <img src="https://img.shields.io/badge/NAHYUN-F2F2F2?style=flat-square&logo=&logoColor="/></a>
-<br/> ## 
+##<img src="https://img.shields.io/badge/NAHYUN-F2F2F2?style=flat-square&logo=&logoColor="/></a>
+<br/>## 
 
 ## language ## 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
