@@ -1,6 +1,6 @@
 
 ## ✨Nahyun✨ ##
-## <img src="https://img.shields.io/badge/✨NAHYUN✨-#F2F2F2?style=flat-square"/></a>
+## <img src="https://img.shields.io/badge/NAHYUN-#F2F2F2?style=flat-square"/></a>
 <br/> ## 
 
 ## language ## 
