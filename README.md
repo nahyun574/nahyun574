@@ -3,7 +3,7 @@
 
 <h2>📛 Introduce 📛</h2>
 
-<h4>computer software Master's student</h4>
+
 <h4>Woo NaHyun</h4>
 <br>
 <h4>📫 : egb293@gmail.com </h4>
